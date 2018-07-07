@@ -1,0 +1,4 @@
+evento_index:
+    path: /
+    controller: AppBundle\Controller\Evento\EventoController::index
+    methods: GET
